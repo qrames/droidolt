@@ -1,7 +1,7 @@
 {
   "name": "droidolt",
   "version": "1.0.0",
-  "description": "association robotique",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,11 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/qrames/droidolt.git"
   },
-  "keywords": [
-    "association",
-    "robotique"
-  ],
-  "author": "Quentin Rames, Hermelen Peris",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/qrames/droidolt/issues"
